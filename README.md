@@ -12,8 +12,8 @@ Having a background in Engineering, my love for information technology has led m
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
 | Vulnerability Assessment                      | Vulnerability Assessment Project|
 | Intrusion Detection and Prevention            | IDS/IPS Project|
 | Endpoint Security                             | EDR project|
