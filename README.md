@@ -14,12 +14,12 @@ Having a background in Engineering, my love for information technology has led m
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
-| Vulnerability Assessment                      | Vulnerability Assessment Project|
-| Intrusion Detection and Prevention            | IDS/IPS Project|
-| Endpoint Security                             | EDR project|
-| Active Directory                              | Active Directory project|
-| Incident Response                             | Incident Response project| 
-| Networking                                    | Networking project|
+| Vulnerability Assessment                      | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
+| Intrusion Detection and Prevention            | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
+| Endpoint Security                             | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
+| Active Directory                              | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
+| Malware Analysis                              | <a href="https://github.com/Perkoh/Malware-Analysis-Project">Malware Analysis Project</a>| 
+| Networking                                    |<a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
 
 ## Tools
 
