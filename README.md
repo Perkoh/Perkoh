@@ -40,6 +40,12 @@ Having a background in Engineering, my love for information technology has led m
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+## Vulnerability
+<div>
+   <img src="https://img.shields.io/badge/Nessus-4E9A00?style=for-the-badge&logo=Tenable&logoColor=white" />
+   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+</div>
+
 ## Certifications
 
 <div>
