@@ -19,6 +19,7 @@ Having a background in Engineering, my love for information technology has led m
 | Endpoint Security                             | EDR project|
 | Active Directory                              | Active Directory project|
 | Incident Response                             | Incident Response project| 
+| Networking                                    | Networking project|
 
 ## Tools
 
@@ -52,3 +53,4 @@ Having a background in Engineering, my love for information technology has led m
 - EDR project
 - Active Directory project
 - Incident Response project
+- Networking Project
