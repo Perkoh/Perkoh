@@ -1,4 +1,4 @@
-# Hello, I'm Perkoh
+# Hello, I'm Perkoh Awuah Donkoh
 <a href="https://http://linkedin.com/in/perkoh-awuah-donkoh-5b600b230"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
