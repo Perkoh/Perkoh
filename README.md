@@ -46,6 +46,17 @@ Having a background in Engineering, my love for information technology has led m
    <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
+## Malware
+<div>
+    <img src="https://img.shields.io/badge/FLARE%20VM-00A4EF?style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/VirusTotal-4E9A00?style=for-the-badge&logo=VirusTotal&logoColor=white" />
+</div>
+
+## Networking
+<div>
+    <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1F77D0?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
 ## Certifications
 
 <div>
