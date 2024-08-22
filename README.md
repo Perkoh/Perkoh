@@ -14,12 +14,12 @@ Having a background in Engineering, my love for information technology has led m
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
-| Vulnerability Assessment                      | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
-| Intrusion Detection and Prevention            | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
-| Endpoint Security                             | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
-| Active Directory                              | <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
+| Vulnerability Assessment                      | <a href="https://github.com/Perkoh/Vulnerability-Assessment-">Vulnerability Assessment Project</a>|
+| Intrusion Detection and Prevention            | <a href="https://github.com/Perkoh/IDS-IPS-Project">IDS/IPS Project</a>|
+| Endpoint Security                             | <a href="https://github.com/Perkoh/EDR-Project">EDR Project</a>|
+| Active Directory                              | <a href="https://github.com/Perkoh/Active-Directory-Project">Active Directory Project</a>|
 | Malware Analysis                              | <a href="https://github.com/Perkoh/Malware-Analysis-Project">Malware Analysis Project</a>| 
-| Networking                                    |<a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>|
+| Networking                                    |<a href="https://github.com/Perkoh/Networking-Project">Networking Project</a>|
 
 ## Tools
 
@@ -47,10 +47,10 @@ Having a background in Engineering, my love for information technology has led m
 </div>
 
 ## Projects
-- Detection Lab
-- Vulnerability Assessment Project
-- IDS/IPS Project
-- EDR project
-- Active Directory project
-- Incident Response project
-- Networking Project
+- <a href="https://github.com/Perkoh/Detection-Lab/tree/main">Detection Lab</a>
+- <a href="https://github.com/Perkoh/Vulnerability-Assessment-">Vulnerability Assessment Project</a>
+- <a href="https://github.com/Perkoh/IDS-IPS-Project">IDS/IPS Project</a>
+- <a href="https://github.com/Perkoh/EDR-Project">EDR Project</a>
+- <a href="https://github.com/Perkoh/Active-Directory-Project">Active Directory Project</a>
+- <a href="https://github.com/Perkoh/Malware-Analysis-Project">Malware Analysis Project</a>
+- <a href="https://github.com/Perkoh/Networking-Project">Networking Project</a>
