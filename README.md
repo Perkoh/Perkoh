@@ -1,5 +1,5 @@
 # Hello, I'm Perkoh Awuah Donkoh
-<a href="https://http://linkedin.com/in/perkoh-awuah-donkoh-5b600b230"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/perkoh-awuah-donkoh-5b600b230"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
