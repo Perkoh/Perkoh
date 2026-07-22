@@ -2,11 +2,17 @@
 <a href="https://linkedin.com/in/perkoh-awuah-donkoh-5b600b230"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a cybersecurity and machine-learning enthusiast who likes building things that sit right where those two fields meet — using ML not as a buzzword, but as a practical tool for solving real security problems.
+
+I'm drawn to the questions that live in the overlap: How do you teach a model to recognise a threat it has never seen? How do you protect users without taking away their control? How do you ship a security tool that's actually fast, private, and honest about what it knows? I care as much about the engineering around a model — data integrity, deployment, latency, graceful failure — as the model itself, because in security a clever model that's slow, biased, or brittle in production helps no one.
+
+My flagship project is gyAI, a real-time domain-intelligence system that warns users about malicious and phishing sites through a browser extension — informing rather than blocking. It's an end-to-end build: feature engineering, a two-phase LightGBM model, a Flask API, Redis caching, and a Manifest V3 extension, deployed and load-tested as a real service.
+
+Always learning, always building. If it involves catching bad actors with good data, I'm interested.
 
 ## Objective
 
-Having a background in Engineering, my love for information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To grow as an engineer at the intersection of cybersecurity and applied machine learning — building systems that detect and explain threats in the real world, not just in notebooks. My focus is on the full lifecycle of a security-ML product: sourcing and cleaning threat data without introducing bias, engineering features that generalise, training and validating models with the metrics that actually matter (precision, recall, false-positive rate — not just accuracy), and deploying them as fast, private, production-grade services. I'm especially interested in threat detection, phishing and domain intelligence, explainable AI for security decisions, and user-respecting design — protection that keeps humans in control. My goal is to keep shipping projects that turn machine learning into practical, trustworthy security for real users.
 
 ## Skills
 
